@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Properties>
+    <Property Name="something1">Value1</Property>
+    <Property Name="something2">Value2</Property>
+    <Property Name="something3">Value3</Property>
+    <Property Name="something4">Value4</Property>
+</Properties>

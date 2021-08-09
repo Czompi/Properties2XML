@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Properties2XML": {
+      "commandName": "Project",
+      "commandLineArgs": "--inPath ./props --outPath ./xml"
+    }
+  }
+}
