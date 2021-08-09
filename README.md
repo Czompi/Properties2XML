@@ -7,7 +7,7 @@ properties2xml --inPath path/to/properties/files --outPath path/to/xml/output/fo
 ```
 ## How it works
 It splits the properties file at the 1st `=` and it converts that data to XML.
-### Conversion xample
+### Conversion example
 
 <table>
     <tr>
